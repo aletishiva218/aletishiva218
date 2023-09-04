@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **Flutter, Node.js, Python**
 
-- 👨‍💻 All of my projects are available at [shivaaleti.netlify.app](shivaaleti.netlify.app)
+- 👨‍💻 All of my projects are available at [https://shivaaleti.netlify.app](https://shivaaleti.netlify.app)
 
 - 📫 How to reach me **aletishiva218@gmail.com**
 
-- 📄 Know about me [shivaaleti.netlify.app](shivaaleti.netlify.app)
+- 📄 Know about me [https://shivaaleti.netlify.app](https://shivaaleti.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
