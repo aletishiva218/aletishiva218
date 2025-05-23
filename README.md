@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Flutter, Node.js, Python**
 
-- 👨‍💻 All of my projects are available at [https://shivaaleti.netlify.app](https://shiva-aleti.onrender.com)
+- 👨‍💻 All of my projects are available at [https://shivaaleti-mern.vercel.app/](https://shiva-aleti.onrender.com)
 
 - 📫 How to reach me **aletishiva218@gmail.com**
 
