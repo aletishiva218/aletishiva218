@@ -1,196 +1,94 @@
+# 👋 Hi there, I'm Shiva Aleti
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shiva%20Aleti&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
-</div>
-
-<div align="center">
-  <img alt="Coding" width="400" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
-</div>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Shiva+Aleti!;Full+Stack+Developer+🚀;Always+Learning+New+Things+💡;" />
-</h1>
-
-<h3 align="center">🚀 Passionate Full Stack Developer | 💻 MERN Stack Enthusiast | 🌟 Problem Solver</h3>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aletishiva218&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/aletishiva218?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=for-the-badge" alt="Focus" />
-</div>
+🚀 Web Developer | 🧠 Computer Science Student | 💼 MERN Stack Developer  
+📍 Mumbai, India | 📧 aletishiva218@gmail.com | 📞 +91 77383 77006  
+[🔗 LinkedIn](https://linkedin.com/in/shiva-aleti-b06443237/)
 
 ---
 
-## 🎯 About Me
-
-```javascript
-const shiva = {
-    name: "Shiva Aleti",
-    location: "India 🇮🇳",
-    role: "Full Stack Developer",
-    education: "Computer Science Graduate",
-    currentFocus: ["Flutter", "Node.js", "Python", "MERN Stack"],
-    hobbies: ["Coding", "Learning New Technologies", "Problem Solving"],
-    funFact: "I love turning coffee into code! ☕➡️💻"
-};
-```
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-### 🌟 What I'm Up To
-
-- 🔭 **Currently Working On:** Building scalable web applications with MERN stack
-- 🌱 **Learning:** Flutter for mobile development, Advanced Node.js, Python frameworks
-- 💡 **Exploring:** Cloud technologies (AWS, Azure), DevOps practices
-- 🎯 **Goal for 2024:** Contribute to more open-source projects and master microservices
-- 💬 **Ask Me About:** Web Development, JavaScript, React, Node.js, Database Design
-- ⚡ **Fun Fact:** I debug code faster with music on! 🎵
+## 🎓 Education
+**Bachelor's in Computer Science – Information Technology**  
+📅 *July 2022 – April 2025*  
+🏫 M. L. Dahanukar College of Commerce, Mumbai  
+📊 **GPA:** 8.6
 
 ---
 
-## 💼 Work Experience
+## 💼 Professional Experience
 
-<div align="center">
+**Web Developer – Universal Support for Enterprises and Services Inspiration Pvt. Ltd.**  
+📍 Vile Parle, Mumbai | 📅 *July 2024 – Present*  
 
-| 🏢 **Company** | 👨‍💻 **Role** | 📅 **Duration** | 🛠️ **Tech Stack** |
-|---|---|---|---|
-| **Freelance** | Full Stack Developer | 2023 - Present | MERN, Flutter, Python |
-| **Personal Projects** | Independent Developer | 2022 - Present | React, Node.js, MongoDB |
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 🌟 **Portfolio Website**
-<img src="https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge" alt="Live" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-
-🔗 **[Live Demo](https://shiva-aleti.onrender.com)** | 🔗 **[Source Code](https://github.com/aletishiva218)**
-
-*A responsive portfolio showcasing my projects and skills with modern UI/UX design*
-
----
-
-### 🎯 **More Projects Coming Soon...**
-*Working on exciting projects with Flutter, Python, and advanced web technologies*
-
-</div>
+- 🚀 Boosted development efficiency by **30%** using reusable TailwindCSS project setup.
+- 📱 Improved mobile and desktop performance by optimizing image formats (WebP) and reduced load times.
+- 📊 Enhanced SEO and performance using Google PageSpeed Insights optimizations.
+- 📁 Standardized file structure, reducing setup time by **60%** across projects.
+- 📈 Delivered projects **30% faster** than deadlines with effective time management.
+- 📬 Built **two email API services** for frontend apps with optimized delivery and performance.
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+**Languages & Frameworks:**  
+- JavaScript (ES6+), Node.js, Express.js, React.js  
+- Python, PHP, HTML, CSS, Tailwind CSS
 
-### **Languages**
-<img src="https://skillicons.dev/icons?i=js,python,java,c,cpp,dart,php" />
+**Databases & Tools:**  
+- MongoDB, MySQL, PostgreSQL, Redis  
+- WebSockets / Socket.io, JWT, Postman, Git, GitHub  
 
-### **Frontend**
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind,flutter" />
-
-### **Backend**
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask" />
-
-### **Database**
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase" />
-
-### **Tools & Technologies**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux" />
-
-### **Cloud & Deployment**
-<img src="https://skillicons.dev/icons?i=vercel,netlify,heroku,docker" />
-
-</div>
+**Other Skills:**  
+- REST APIs, Asynchronous Programming, Middleware, Security Best Practices  
+- System Design, SDLC, OOP, Clean Code, Unit Testing  
+- Build Tools: npm, Webpack, Babel
 
 ---
 
-## 📊 GitHub Analytics
+## 🚀 Projects
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aletishiva218&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aletishiva218&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aletishiva218&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aletishiva218&theme=tokyo-night" alt="Activity Graph" />
-</div>
+### 📌 To-Do List Application
+A simple yet powerful task manager app.  
+🔗 [Live Demo](https://todo-listwebapplication.netlify.app)  
+🛠️ **Tech:** Node.js, Express.js  
+- Email-based authentication system  
+- Add, edit, delete tasks with status update  
+- Future date validation, proper error handling
 
 ---
 
-## 🏆 Achievements & Certifications
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aletishiva218&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-
-### 📜 **Certifications**
-- 🎯 **Full Stack Web Development** - Self-taught & Project-based learning
-- 💻 **JavaScript Algorithms and Data Structures** - In Progress
-- 🚀 **React Development** - Advanced concepts mastered
-- 📱 **Flutter Development** - Currently pursuing
-
-</div>
+### 🔐 OTP-Based Authentication API  
+Robust API to secure registration and login processes.  
+🔗 [Live](https://otp-verification-server-6rwu.onrender.com/api/register)  
+🛠️ **Tech:** Node.js, MongoDB, JWT  
+- OTP-based registration and login  
+- Secure password handling  
+- Complete error and input validation
 
 ---
 
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/shiva-aleti-b06443237/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://www.youtube.com/channel/ucvh1kmgl9atil0nxedet_vw">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-</a>
-<a href="mailto:aletishiva218@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-<a href="https://shiva-aleti.onrender.com">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
-</a>
-
-</div>
+### 🖼️ PhotoPro: Online Image Editor  
+Edit images with real-time effects and download option.  
+🔗 [Live](https://image-editor-app-link.com) *(Add your live link)*  
+🛠️ **Tech:** JavaScript, HTML/CSS  
+- Apply filters: blur, brightness, grayscale, etc.  
+- Responsive and user-friendly interface  
+- Download edited images instantly
 
 ---
 
-## 🎵 Currently Coding To
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31qlw7kz3qdp7gqbeqy5vhlyxphu&unique=true" alt="Spotify Recently Played" />
-</div>
+## 📊 GitHub Stats
+![Shiva's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivaaleti&show_icons=true&theme=gruvbox)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivaaleti&layout=compact&theme=gruvbox)
 
 ---
 
-## 🐍 Contribution Snake
+## 📫 Let's Connect
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/aletishiva218/aletishiva218/output/snake.svg" alt="Snake animation" />
-</div>
-
----
-
-## 💭 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
+- 🌐 [LinkedIn](https://linkedin.com/in/shiva-aleti-b06443237/)
+- ✉️ aletishiva218@gmail.com
+- 📞 +91 77383 77006
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-  
-  **Thanks for visiting my profile! Let's connect and build something amazing together! 🚀**
-  
-  <img src="https://komarev.com/ghpvc/?username=aletishiva218&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-</div>
+> 💡 *"Building clean, efficient, and user-focused web solutions — one line at a time."*
