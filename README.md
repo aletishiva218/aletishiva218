@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b6cb7,100:182848&height=180&section=header&text=Hi,%20I'm%20Shiva%20Aleti!&fontSize=32&fontColor=ffffff&fontAlignY=35&desc=Passionate%20MERN%20Stack%20Developer%20%7C%203rd%20Year%20CS%20Student&descAlignY=50&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f5132,100:1e7e34&height=180&section=header&text=Hi,%20I%27m%20Shiva%20Aleti!&fontSize=32&fontAlignY=35&desc=Passionate%20MERN%20Stack%20Developer%20%7C%203rd%20Year%20CS%20Student&descAlignY=50&descAlign=50&fontColor=d4edda" />
 
 <!-- Introduction -->
 ## 👨‍💻 About Me
@@ -82,4 +82,4 @@ RESTful API to upload and store images.
 > “Striving for simplicity in logic, clarity in code, and purpose in every project.”
 
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:182848,100:4b6cb7&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f5132,100:1e7e34&height=120&section=footer"/>
