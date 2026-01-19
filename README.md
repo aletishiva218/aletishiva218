@@ -4,10 +4,10 @@
 <!-- Introduction -->
 ## 👨‍💻 About Me
 
-🎓 3rd Year B.Sc. CS Student at M. L. Dahanukar College of Commerce  
+🎓 M. L. Dahanukar College of Commerce (BScIT complete)
 💻 MERN Stack Web Developer | Backend Focused | Open to Internships  
 📍 Mumbai, India | 📧 aletishiva218@gmail.com  
-🌐 [LinkedIn](https://linkedin.com/in/shiva-aleti-b06443237/) | 📱 +91 77383 77006
+🌐 [LinkedIn](https://www.linkedin.com/in/shiva-aleti/) | 📱 +91 77383 77006
 
 ---
 
@@ -23,6 +23,14 @@
 <!-- Project Section -->
 ## 🚀 Projects Showcase
 
+### 📌 Euka AI: Your Fast Track to PM Interview Success  
+Full-stack AI web app with user auth, blog, SEO, analytics, and intelligent interview module generation.  
+🔗 [Live Demo](https://www.eukaai.com/)
+
+<img src="https://shivaaleti-mern.vercel.app/static/media/eukaai.c0c54fd7fe4c284fcc51.png" width="600" alt="Euka AI Preview" /> <!-- Replace with actual preview -->
+
+---
+
 ### 📌 To-Do List App  
 A user-friendly app to manage tasks efficiently.  
 🔗 [Live Demo](https://todo-listwebapplication.netlify.app)
@@ -31,11 +39,11 @@ A user-friendly app to manage tasks efficiently.
 
 ---
 
-### 🔐 OTP-Based Authentication API  
-Secure OTP verification system via email.  
-🔗 [Try API](https://otp-verification-server-6rwu.onrender.com/api/register)
+### 📌 Tic Tac Toe  
+Built fully responsive tic-tac-toe with game logic, win detection, sound effects, and intuitive UI design.  
+🔗 [Live Demo](https://ticgametacgametoegamenew.netlify.app/)
 
-<img src="https://user-images.githubusercontent.com/00000000/otp-preview.gif" width="600" alt="OTP API Preview" />
+<img src="https://shivaaleti-mern.vercel.app/static/media/tictactoe.f9284d3c0a3b0028d81e.png" width="600" alt="Tic Tac Toe Preview" /> <!-- Replace with actual preview -->
 
 ---
 
@@ -60,10 +68,10 @@ RESTful API to upload and store images.
 <!-- Certification -->
 ## 📜 Certifications
 
-- Microsoft Excel 2019 Associate  
-- Azure AI Fundamentals (AI-900)  
-- Web Development with MongoDB & React  
-- SQL for Beginners – Great Learning
+- National Service Scheme - [View](https://shivaaleti-mern.vercel.app/static/media/nss.9bcc639be9076d27bab9.pdf) 2022 - 2024
+- Principal of Research - [View](https://shivaaleti-mern.vercel.app/static/media/principalofresearch.bb019060d95ceeba0c58.pdf) 2024
+- Azure AI Fundamentals (AI-900) - [View](https://shivaaleti-mern.vercel.app/static/media/AzureAI.31cff052108f82573259.pdf) 2023
+- Microsoft Excel 2019 Associate  - [View](https://shivaaleti-mern.vercel.app/static/media/excel.7d723ba1717ac36759ce.pdf) 2022
 
 ---
 
@@ -71,9 +79,10 @@ RESTful API to upload and store images.
 ## 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/shiva-aleti-b06443237/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://shivaaleti-mern.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-darkblue?style=for-the-badge&logo=Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/shiva-aleti/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:aletishiva218@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/shivaaleti"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/aletishiva218"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
 </p>
 
 ---
