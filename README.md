@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f5132,100:1e7e34&height=180&section=header&text=Hi,%20I%27m%20Shiva%20Aleti!&fontSize=32&fontAlignY=35&desc=Passionate%20MERN%20Stack%20Developer%20%7C%203rd%20Year%20CS%20Student&descAlignY=50&descAlign=50&fontColor=d4edda" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f5132,100:1e7e34&height=180&section=header&text=Hi,%20I%27m%20Shiva%20Aleti!&fontSize=32&fontAlignY=35&desc=Passionate%20MERN%20Stack%20Developer%20%7C%203rd%20Year%20CS%20Student&descAlignY=50&descAlign=50&fontColor=d4edda](https://capsule-render.vercel.app/api?type=waving&height=180&color=gray&text=Hi,%20I%20am%20Shiva%20Aleti&descAlignY=35&descAlign=53&section=header&reversal=false&animation=fadeIn&fontSize=50&fontColor=d4edda&textBg=false&fontAlign=48&fontAlignY=46" />
 
 <!-- Introduction -->
 ## 👨‍💻 About Me
